@@ -16,7 +16,7 @@ import GoBack from "../common/GoBack";
 import WbSunnyRoundedIcon from "@material-ui/icons/WbSunnyRounded";
 import FilterDramaRoundedIcon from "@material-ui/icons/FilterDramaRounded";
 import AcUnitIcon from "@material-ui/icons/AcUnit";
-import { AiOutlineHeart, AiFillHeart } from "react-icons/Ai";
+import { AiOutlineHeart, AiFillHeart } from "react-icons/ai";
 import Coment_containder from "../coment_Box/Coment_container";
 import {
   AddFriend_REQUEST,
