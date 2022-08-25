@@ -44,6 +44,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use("/", router);
 
-app.listen(3000, (e) => {
+app.listen(80, (e) => {
   console.log("server start port:3500", e);
 });
