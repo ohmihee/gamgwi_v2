@@ -32,3 +32,4 @@ Next.js Redux-Saga Node.js MariaDB JavaScript AWS-EC2
 ![글 리스트](https://user-images.githubusercontent.com/82620612/129842416-35853e93-afc0-4b87-8b30-b0a4f69ea082.PNG)<br>
 
 
+# gamgwi_v2
