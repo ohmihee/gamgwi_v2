@@ -2,3 +2,6 @@
 /front/.next
 *package-lock.json
 *hyejun-laptop.pem
+.env
+.pem
+azit-pem.pem
